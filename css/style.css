@@ -1,6 +1,7 @@
-canvas {
-    position: absolute;
-    top: 25%;
-    left: 25%;
-    background: transparent;
-}
+ html body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    min-height: 100vh;
+} 
