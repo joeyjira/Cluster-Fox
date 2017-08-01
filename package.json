@@ -1,5 +1,5 @@
 {
-  "name": "amongthestars",
+  "name": "clusterFox",
   "version": "1.0.0",
   "description": "",
   "main": "webpack.config.js",
@@ -20,13 +20,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/joeyjira/amongTheStars.git"
+    "url": "git+https://github.com/joeyjira/Cluster-Fox.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/joeyjira/amongTheStars/issues"
+    "url": "https://github.com/joeyjira/Cluster-Fox.git/issues"
   },
-  "homepage": "https://github.com/joeyjira/amongTheStars#readme"
+  "homepage": "https://github.com/joeyjira/Cluster-Fox.git#readme"
 }
