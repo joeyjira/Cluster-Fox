@@ -1,12 +1,12 @@
-## Star Burst
+## Cluster Fox
 
 ### Background  
 
-Star Burst is a space shooter where the player pilots a space ship through an asteroid field trying to shoot enemy ships down. Each of the ships will have 3 lives and each hit from a laser takes down the health by 1 point. The controls of the ship will come from user input on the keyboard and the direction the ships face will be from the mouse. The game ends when the user's ship is the last one on the field or the user's health is down to 0.
+Cluster Fox is a space shooter where the player pilots a space ship through an asteroid field trying to shoot enemy ships down. Each of the ships will have 3 lives and each hit from a laser takes down the health by 1 point. The controls of the ship will come from user input on the keyboard and the direction the ships face will be from the mouse. The game ends when the user's ship is the last one on the field or the user's health is down to 0.
 
 ### Functionality & MVP  
 
-In a game of Star Burst, players will be able to:
+In a game of Cluster Fox, players will be able to:
 
 - [ ] Fly the ships around on the board using keyboard and mouse controls
 - [ ] Ships are able to shoot lasers 
@@ -20,7 +20,7 @@ In addition, this project will include:
 
 ### Wireframes
 
-Star Burst will have a single screen consisting of a title, information panel, 
+Cluster Fox will have a single screen consisting of a title, information panel, 
 and a game board. There will also be buttons at the side of the game to mute the sound
 and restart the game.
 
@@ -33,7 +33,7 @@ The picture below is the actual game that will be going into the game board
 ### Architecture and Technologies
 
 This project will be implemented with the following technologies:
-Star Burst will be made with the following technologies:
+Cluster Fox will be made with the following technologies:
 
 - Vanilla JavaScript with browser APIs for overall structure and game logic,
 - `HTML5 Canvas` for DOM manipulation and rendering,
