@@ -2,9 +2,9 @@ const path = require("path");
 
 module.exports = {
   context: __dirname,
-  entry: "./lib/game.js",
+  entry: "./lib/clusterfox.js",
   output: {
-    path: path.join(__dirname, 'app', 'assets', 'javascripts'),
+    path: path.join(__dirname, 'lib'),
     filename: "bundle.js"
   },
   resolve: {

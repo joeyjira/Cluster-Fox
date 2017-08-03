@@ -1,7 +1,19 @@
- html body {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background-color: black;
-    min-height: 100vh;
+  html body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+  min-height: 90vh;
 } 
+ 
+ #background {
+  background: transparent;
+  position: absolute;
+  z-index: 0;
+} 
+
+/* #ships {
+  background: transparent;
+  position: absolute;
+  z-index: 1;
+}   */
