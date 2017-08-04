@@ -60,5 +60,7 @@ h1, h2 {
 }
 
 .canvas-container {
-  border: 2px solid rgb(225, 223, 64);
+  background: rgb(225, 223, 64);
+  border: 5px solid rgb(225, 223, 64);
+  border-radius: 2px;
 }
