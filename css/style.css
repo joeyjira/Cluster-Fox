@@ -4,6 +4,7 @@
   align-items: center;
   background-color: black;
   min-height: 100vh;
+  overflow: hidden;
 }
  
 #background {
@@ -11,9 +12,3 @@
   position: absolute;
   z-index: 0;
 }
-
-/* #ships {
-  background: transparent;
-  position: absolute;
-  z-index: 1;
-}   */
