@@ -8,6 +8,14 @@
   font-family: 'Gloria Hallelujah', cursive;
 }
 
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  width: 100%;
+}
+
 h1, h2 {
   display: flex;
   justify-content: space-between;
