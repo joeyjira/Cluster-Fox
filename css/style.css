@@ -21,7 +21,14 @@ h1, h2 {
   justify-content: space-between;
   align-items: center;
   color: rgb(225, 223, 64);
+}
 
+.p1{
+  color: #99362C;
+}
+
+.p2 {
+  color: #1F74CC;
 }
 
 .player-one-score {
